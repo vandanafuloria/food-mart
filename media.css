@@ -1,0 +1,38 @@
+@media (min-width: 500px) and (max-width: 960px) {
+    .header-input{
+        order:1;
+        width: 100vw;
+    }
+    .header_icons{
+        order:0;
+    }
+    .main-container{
+        flex-wrap:wrap;
+       
+       
+    }
+    .main-container_banner2
+    {
+        flex-wrap: wrap;
+      width: 100%;
+    }
+    .main-container_banner1_content{
+        min-width: 200px;
+        
+    }
+    .banner1_image img{
+       width: 300px;
+    }
+    .main-container_banner1{
+       width: 100%;
+       flex-grow: 1;
+       justify-content: space-evenly;
+       
+    }
+    .main-container_banner1_content{
+        width: 350px;
+    }
+    .img{
+        
+    }
+}
